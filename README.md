@@ -1,0 +1,1 @@
+# plugins-specify-missing-image-dimensions
